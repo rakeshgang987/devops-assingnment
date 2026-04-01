@@ -76,9 +76,7 @@ User → Internet → ALB (Public Subnet) → EC2 (Private Subnet)
 
 ## 📊 Architecture Diagram
 
-
-![ARCHITECTURE](architecht/.png)
----
+![Architecture](screenshots/architecture.png)
 
 
 
